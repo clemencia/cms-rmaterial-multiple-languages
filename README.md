@@ -12,7 +12,7 @@ Note that important the data will require at least a temporary connection to the
 
 |Language|Jupyter notebook|For print|
 |:--|:--|:--|
-|English (EN)|[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-rmaterial-multiple-languages/master?filepath=EN-R-tutorial.ipynb)|[View PDF](https://github.com/cms-opendata-education/cms-rmaterial-multiple-languages/blob/master/EN-R-Tutorial.pdf)|
+|English (EN)|[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-rmaterial-multiple-languages/master?filepath=EN-R-tutorial.ipynb)|[View PDF](https://github.com/cms-opendata-education/cms-rmaterial-multiple-languages/blob/master/EN-R-tutorial.pdf)|
 |Spanish (ES)|Coming soon!|[View PDF](https://github.com/cms-opendata-education/cms-rmaterial-multiple-languages/blob/master/ES-R-Tutorial.pdf)
 
 ## Instructions for offline use
